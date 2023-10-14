@@ -2,11 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    color: #6c6b6b;
+    color: #6c6b6b!important;
   }
   
   a {
-    text-decoration: none;
+    text-decoration: none!important;
   }
   
   header, nav, h2, .main-visual, footer {
@@ -115,6 +115,7 @@
   
   .blog-text-heading {
     padding-bottom: 15px;
+    font-size: 1em;
   }
   
   .blog-date {
